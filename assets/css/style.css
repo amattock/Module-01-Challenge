@@ -119,7 +119,7 @@ p {
     color: #ffffff;
 }
 
-/* BOTTOM MARGIN AND TEXT ALIGNMENT SPECIFIED */
+/* BOTTOM MARGIN AND TEXT ALIGNMENT SPECIFIED for all headings */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -135,7 +135,7 @@ p {
     text-align: center;
 }
 
-/* DISPLAY STYLE, MARGIN AND MAXIMUM ALLOWED WITH SPECIFIED */
+/* DISPLAY STYLE, MARGIN AND MAXIMUM ALLOWED WITH SPECIFIED for all images */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -181,6 +181,7 @@ p {
     color: #ffffff;
 }
 
+/* DISPLAY STYLE, MARGIN AND MAXIMUM ALLOWED WITH SPECIFIED for all images */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -193,6 +194,7 @@ p {
     max-height: 200px;
 }
 
+/* BOTTOM MARGIN AND TEXT ALIGNMENT SPECIFIED for all headings */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
